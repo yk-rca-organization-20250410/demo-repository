@@ -26,5 +26,9 @@ The background color is `#ffffff`● for light mode and `#000000`● for dark mo
 
 **リンクの書き方**  
 []内にリンク文字()内にURL  
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [GitHub Pages](https://pages.github.com/).  
+
+相対パスリンクの場合。
+[READMEを見る](README.md)  
+
 
