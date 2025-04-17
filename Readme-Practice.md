@@ -1,6 +1,7 @@
-#**見出し**  
+# **見出し**  
+見出しを書くときは#の後ろに半角スペースが必要  
 改行は末尾にspaceを二つ  
-##**見出し2**  
+## **見出し2**  
 **太字（ctrl + B)**
 _斜体_(ctrl + I)  
 
@@ -21,7 +22,7 @@ case1
 case2
 case3
 ```
-###**見出し3**  
+### **見出し3**  
 The background color is `#ffffff`● for light mode and `#000000`● for dark mode.  
 
 **リンクの書き方**  
