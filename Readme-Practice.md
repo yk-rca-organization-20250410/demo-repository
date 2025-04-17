@@ -9,4 +9,22 @@ _斜体_(ctrl + I)
 一部の文字だけ<sub>下に寄せて小さくする</sub>  
 一部の文字だけ<ins>下線を引く</ins>  
 
+テキストの引用
+>引用部分
+
+コードの引用
+`source`
+
+複数行コードの引用
+```
+case1
+case2
+case3
+```
 ###**見出し3**  
+The background color is `#ffffff`● for light mode and `#000000`● for dark mode.  
+
+**リンクの書き方**  
+[]内にリンク文字()内にURL  
+This site was built using [GitHub Pages](https://pages.github.com/).
+
