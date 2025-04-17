@@ -32,4 +32,4 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 相対パスリンクの場合。
 [READMEを見る](README.md)  
 
-[![Test Image 3](/pdf-link-img.png)](/pdf-link-test.pdf)
+[<img src="pdf-link-img.png" width="45%">](/pdf-link-test.pdf)
